@@ -1,7 +1,7 @@
 #code from lab pa2 @radek.husek
 #https://gitlab.fit.cvut.cz/husekrad/pa2-cvika-2022/blob/master/cv10/semestralka/Makefile
 
-NAME = gyseldom
+NAME = poly-curse
 CXX = g++
 FLAGS = -std=c++17 -Wall -g -pedantic -O2
 
